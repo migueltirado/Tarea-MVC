@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\git.csproj": {}
+    "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\tarea-mvc\\git.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\git.csproj": {
+    "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\tarea-mvc\\git.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\git.csproj",
+        "projectUniqueName": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\tarea-mvc\\git.csproj",
         "projectName": "git",
-        "projectPath": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\git.csproj",
+        "projectPath": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\tarea-mvc\\git.csproj",
         "packagesPath": "C:\\Users\\ASSA ABLOY CANCUN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\obj\\",
+        "outputPath": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\tarea-mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

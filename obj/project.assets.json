@@ -12080,11 +12080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASSA ABLOY CANCUN\\desktop\\itc\\7\\programacion\\git\\git.csproj",
+      "projectUniqueName": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\tarea-mvc\\git.csproj",
       "projectName": "git",
-      "projectPath": "C:\\Users\\ASSA ABLOY CANCUN\\desktop\\itc\\7\\programacion\\git\\git.csproj",
+      "projectPath": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\tarea-mvc\\git.csproj",
       "packagesPath": "C:\\Users\\ASSA ABLOY CANCUN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASSA ABLOY CANCUN\\desktop\\itc\\7\\programacion\\git\\obj\\",
+      "outputPath": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\tarea-mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -58,3 +58,6 @@ C:\Users\ASSA ABLOY CANCUN\Desktop\ITC\7\programacion\Git\tarea-mvc\obj\Debug\ne
 C:\Users\ASSA ABLOY CANCUN\Desktop\ITC\7\programacion\Git\tarea-mvc\obj\Debug\netcoreapp2.2\git.dll
 C:\Users\ASSA ABLOY CANCUN\Desktop\ITC\7\programacion\Git\tarea-mvc\obj\Debug\netcoreapp2.2\git.pdb
 C:\Users\ASSA ABLOY CANCUN\Desktop\ITC\7\programacion\Git\tarea-mvc\obj\Debug\netcoreapp2.2\git.csproj.CopyComplete
+C:\Users\ASSA ABLOY CANCUN\Desktop\ITC\7\programacion\Git\Tarea-MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Nuevo.g.cshtml.cs
+C:\Users\ASSA ABLOY CANCUN\Desktop\ITC\7\programacion\Git\Tarea-MVC\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
+C:\Users\ASSA ABLOY CANCUN\Desktop\ITC\7\programacion\Git\Tarea-MVC\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
